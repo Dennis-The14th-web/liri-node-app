@@ -9,8 +9,6 @@ var Spotify = require('node-spotify-api');
 
 var axios = require("axios")
 
-// var omdb = require("omdb");
-
 var fs = require("fs");
 
 // bandsintown
