@@ -1,0 +1,167 @@
+
+MOVIE SEARCHED: titanic    
+         ===================================================
+    Title: Titanic
+    
+    Year: 1997
+    
+    Rated: PG-13
+    
+    IMDB Rating: 7.8
+   
+    Rotten Tomatoes Rating: 7.8/10
+    
+    Country: USA
+   
+    Language: English, Swedish, Italian
+   
+    Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+   
+    Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+    ===================================================
+CONCERT SEARCHED: davido
+      ============================================       
+      Venue: Laboma Beach 
+      Venue Location: Accra, Ghana
+      date of the Event: Friday, December 27th 2019, 7:00:00 pm
+      ============================================
+SONG SEARCHED: beautiful0
+            Artist(s): Ed Sheeran,Khalid
+            Song Name: Beautiful People (feat. Khalid)
+            Preview Song: https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful People (feat. Khalid)
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful1
+            Artist(s): Luke Combs
+            Song Name: Beautiful Crazy
+            Preview Song: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=896696e746b4495b83c3c9473a84220d
+            Album: This One's for You Too (Deluxe Edition)
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful2
+            Artist(s): Ed Sheeran,Khalid
+            Song Name: Beautiful People (feat. Khalid)
+            Preview Song: https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=896696e746b4495b83c3c9473a84220d
+            Album: No.6 Collaborations Project
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful3
+            Artist(s): Bazzi,Camila Cabello
+            Song Name: Beautiful (feat. Camila Cabello)
+            Preview Song: https://p.scdn.co/mp3-preview/f4919d159ccc28353ec076bdf5187c19a4f73dc8?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful (feat. Camila Cabello)
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful4
+            Artist(s): Sean Kingston
+            Song Name: Beautiful Girls
+            Preview Song: https://p.scdn.co/mp3-preview/149a2a28b7acbe31096d9f3cb4618ef08926c8b2?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful Girls
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful5
+            Artist(s): Bazzi
+            Song Name: Beautiful
+            Preview Song: https://p.scdn.co/mp3-preview/03eb1f0360624d58bdb415a69ca8e1dcde32bb4a?cid=896696e746b4495b83c3c9473a84220d
+            Album: COSMIC
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful6
+            Artist(s): Alessia Cara
+            Song Name: Scars To Your Beautiful
+            Preview Song: null
+            Album: Know-It-All (Deluxe)
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful7
+            Artist(s): Jesse McCartney
+            Song Name: Beautiful Soul
+            Preview Song: null
+            Album: Beautiful Soul
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful8
+            Artist(s): Lana Del Rey
+            Song Name: Young And Beautiful
+            Preview Song: null
+            Album: Young And Beautiful
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful9
+            Artist(s): Lil Peep
+            Song Name: Life is Beautiful
+            Preview Song: https://p.scdn.co/mp3-preview/114ba8f7680c4b01ae17600ac3e4056df927c460?cid=896696e746b4495b83c3c9473a84220d
+            Album: Come Over When You're Sober, Pt. 2
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful10
+            Artist(s): G-Eazy,A$AP Rocky,Cardi B
+            Song Name: No Limit
+            Preview Song: https://p.scdn.co/mp3-preview/6dbc7ab9e6d39c167e3149f0354639af246be8e5?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Beautiful & Damned
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful11
+            Artist(s): Kanye West
+            Song Name: POWER
+            Preview Song: null
+            Album: My Beautiful Dark Twisted Fantasy
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful12
+            Artist(s): James Blunt
+            Song Name: You're Beautiful
+            Preview Song: https://p.scdn.co/mp3-preview/1e9fe4947493daddd30a02f8e7b920eb413ce065?cid=896696e746b4495b83c3c9473a84220d
+            Album: Back to Bedlam
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful13
+            Artist(s): Kelly Clarkson
+            Song Name: Broken & Beautiful (from the movie UGLYDOLLS)
+            Preview Song: https://p.scdn.co/mp3-preview/d0cd9ed365c0005fc0f5054f868ca92da4fff856?cid=896696e746b4495b83c3c9473a84220d
+            Album: Broken & Beautiful (from the movie UGLYDOLLS)
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful14
+            Artist(s): G-Eazy,Halsey
+            Song Name: Him & I (with Halsey)
+            Preview Song: https://p.scdn.co/mp3-preview/ed7a2ff3c91a5a1b48a6b270debe123e076ac82d?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Beautiful & Damned
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful15
+            Artist(s): Hillsong Worship
+            Song Name: What A Beautiful Name
+            Preview Song: null
+            Album: What A Beautiful Name
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful16
+            Artist(s): Young Thug,Future
+            Song Name: Relationship (feat. Future)
+            Preview Song: https://p.scdn.co/mp3-preview/198bb5cfb2a2261bd3cc338709e9f3848f9bb001?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful Thugger Girls
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful17
+            Artist(s): Eminem
+            Song Name: Beautiful
+            Preview Song: null
+            Album: Relapse: Refill
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful18
+            Artist(s): Zedd,Jon Bellion
+            Song Name: Beautiful Now
+            Preview Song: null
+            Album: True Colors
+            ==================================================
+            ==================================================
+SONG SEARCHED: beautiful19
+            Artist(s): Sean Kingston
+            Song Name: Beautiful Girls
+            Preview Song: https://p.scdn.co/mp3-preview/417ad6ade9ea102c1e658d387fd958e80bc44440?cid=896696e746b4495b83c3c9473a84220d
+            Album: Sean Kingston
+            ==================================================
+            ==================================================
