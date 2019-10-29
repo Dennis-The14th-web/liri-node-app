@@ -1,5 +1,17 @@
 
-MOVIE SEARCHED: titanic    
+CONCERT SEARCHED: Davido
+      ============================================       
+      Venue: Laboma Beach 
+      Venue Location: Accra, Ghana
+      date of the Event: Friday, December 27th 2019, 7:00:00 pm
+      ============================================
+CONCERT SEARCHED: Dababy
+      ============================================       
+      Venue: Myth Live
+      Venue Location: Minneapolis, United States
+      date of the Event: Saturday, November 16th 2019, 8:00:00 pm
+      ============================================
+MOVIE SEARCHED: Titanic    
          ===================================================
     Title: Titanic
     
@@ -19,149 +31,423 @@ MOVIE SEARCHED: titanic
    
     Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
     ===================================================
-CONCERT SEARCHED: davido
-      ============================================       
-      Venue: Laboma Beach 
-      Venue Location: Accra, Ghana
-      date of the Event: Friday, December 27th 2019, 7:00:00 pm
-      ============================================
-SONG SEARCHED: beautiful0
+SONG SEARCHED: Beautiful0
             Artist(s): Ed Sheeran,Khalid
             Song Name: Beautiful People (feat. Khalid)
             Preview Song: https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=896696e746b4495b83c3c9473a84220d
             Album: Beautiful People (feat. Khalid)
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful1
+SONG SEARCHED: Beautiful1
             Artist(s): Luke Combs
             Song Name: Beautiful Crazy
             Preview Song: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=896696e746b4495b83c3c9473a84220d
             Album: This One's for You Too (Deluxe Edition)
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful2
+SONG SEARCHED: Beautiful2
             Artist(s): Ed Sheeran,Khalid
             Song Name: Beautiful People (feat. Khalid)
             Preview Song: https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=896696e746b4495b83c3c9473a84220d
             Album: No.6 Collaborations Project
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful3
+SONG SEARCHED: Beautiful3
             Artist(s): Bazzi,Camila Cabello
             Song Name: Beautiful (feat. Camila Cabello)
             Preview Song: https://p.scdn.co/mp3-preview/f4919d159ccc28353ec076bdf5187c19a4f73dc8?cid=896696e746b4495b83c3c9473a84220d
             Album: Beautiful (feat. Camila Cabello)
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful4
+SONG SEARCHED: Beautiful4
             Artist(s): Sean Kingston
             Song Name: Beautiful Girls
             Preview Song: https://p.scdn.co/mp3-preview/149a2a28b7acbe31096d9f3cb4618ef08926c8b2?cid=896696e746b4495b83c3c9473a84220d
             Album: Beautiful Girls
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful5
+SONG SEARCHED: Beautiful5
             Artist(s): Bazzi
             Song Name: Beautiful
             Preview Song: https://p.scdn.co/mp3-preview/03eb1f0360624d58bdb415a69ca8e1dcde32bb4a?cid=896696e746b4495b83c3c9473a84220d
             Album: COSMIC
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful6
+SONG SEARCHED: Beautiful6
             Artist(s): Alessia Cara
             Song Name: Scars To Your Beautiful
             Preview Song: null
             Album: Know-It-All (Deluxe)
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful7
+SONG SEARCHED: Beautiful7
             Artist(s): Jesse McCartney
             Song Name: Beautiful Soul
             Preview Song: null
             Album: Beautiful Soul
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful8
+SONG SEARCHED: Beautiful8
             Artist(s): Lana Del Rey
             Song Name: Young And Beautiful
             Preview Song: null
             Album: Young And Beautiful
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful9
+SONG SEARCHED: Beautiful9
             Artist(s): Lil Peep
             Song Name: Life is Beautiful
             Preview Song: https://p.scdn.co/mp3-preview/114ba8f7680c4b01ae17600ac3e4056df927c460?cid=896696e746b4495b83c3c9473a84220d
             Album: Come Over When You're Sober, Pt. 2
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful10
+SONG SEARCHED: Beautiful10
             Artist(s): G-Eazy,A$AP Rocky,Cardi B
             Song Name: No Limit
             Preview Song: https://p.scdn.co/mp3-preview/6dbc7ab9e6d39c167e3149f0354639af246be8e5?cid=896696e746b4495b83c3c9473a84220d
             Album: The Beautiful & Damned
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful11
+SONG SEARCHED: Beautiful11
             Artist(s): Kanye West
             Song Name: POWER
             Preview Song: null
             Album: My Beautiful Dark Twisted Fantasy
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful12
+SONG SEARCHED: Beautiful12
             Artist(s): James Blunt
             Song Name: You're Beautiful
             Preview Song: https://p.scdn.co/mp3-preview/1e9fe4947493daddd30a02f8e7b920eb413ce065?cid=896696e746b4495b83c3c9473a84220d
             Album: Back to Bedlam
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful13
-            Artist(s): Kelly Clarkson
-            Song Name: Broken & Beautiful (from the movie UGLYDOLLS)
-            Preview Song: https://p.scdn.co/mp3-preview/d0cd9ed365c0005fc0f5054f868ca92da4fff856?cid=896696e746b4495b83c3c9473a84220d
-            Album: Broken & Beautiful (from the movie UGLYDOLLS)
-            ==================================================
-            ==================================================
-SONG SEARCHED: beautiful14
+SONG SEARCHED: Beautiful14
             Artist(s): G-Eazy,Halsey
             Song Name: Him & I (with Halsey)
             Preview Song: https://p.scdn.co/mp3-preview/ed7a2ff3c91a5a1b48a6b270debe123e076ac82d?cid=896696e746b4495b83c3c9473a84220d
             Album: The Beautiful & Damned
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful15
-            Artist(s): Hillsong Worship
-            Song Name: What A Beautiful Name
-            Preview Song: null
-            Album: What A Beautiful Name
+SONG SEARCHED: Beautiful13
+            Artist(s): Kelly Clarkson
+            Song Name: Broken & Beautiful (from the movie UGLYDOLLS)
+            Preview Song: https://p.scdn.co/mp3-preview/d0cd9ed365c0005fc0f5054f868ca92da4fff856?cid=896696e746b4495b83c3c9473a84220d
+            Album: Broken & Beautiful (from the movie UGLYDOLLS)
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful16
+SONG SEARCHED: Beautiful16
             Artist(s): Young Thug,Future
             Song Name: Relationship (feat. Future)
             Preview Song: https://p.scdn.co/mp3-preview/198bb5cfb2a2261bd3cc338709e9f3848f9bb001?cid=896696e746b4495b83c3c9473a84220d
             Album: Beautiful Thugger Girls
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful17
+SONG SEARCHED: Beautiful15
+            Artist(s): Hillsong Worship
+            Song Name: What A Beautiful Name
+            Preview Song: null
+            Album: What A Beautiful Name
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful17
             Artist(s): Eminem
             Song Name: Beautiful
             Preview Song: null
             Album: Relapse: Refill
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful18
+SONG SEARCHED: Beautiful18
             Artist(s): Zedd,Jon Bellion
             Song Name: Beautiful Now
             Preview Song: null
             Album: True Colors
             ==================================================
             ==================================================
-SONG SEARCHED: beautiful19
+SONG SEARCHED: Beautiful19
             Artist(s): Sean Kingston
             Song Name: Beautiful Girls
             Preview Song: https://p.scdn.co/mp3-preview/417ad6ade9ea102c1e658d387fd958e80bc44440?cid=896696e746b4495b83c3c9473a84220d
             Album: Sean Kingston
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"0
+            Artist(s): Backstreet Boys
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Hits--Chapter One
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"1
+            Artist(s): Backstreet Boys
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=896696e746b4495b83c3c9473a84220d
+            Album: Millennium
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"2
+            Artist(s): Mick Jensen
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=896696e746b4495b83c3c9473a84220d
+            Album: I Want It That Way
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"3
+            Artist(s): Anthem Lights
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=896696e746b4495b83c3c9473a84220d
+            Album: Covers Part IV
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"4
+            Artist(s): Tyler and Mark
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful Dreams
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"5
+            Artist(s): "Weird Al" Yankovic
+            Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+            Preview Song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=896696e746b4495b83c3c9473a84220d
+            Album: Poodle Hat
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"6
+            Artist(s): Nineties Legends
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=896696e746b4495b83c3c9473a84220d
+            Album: Musicbox
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"7
+            Artist(s): Backstreet Boys
+            Song Name: I Want It That Way - Reimagined
+            Preview Song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=896696e746b4495b83c3c9473a84220d
+            Album: I Want It That Way (Reimagined)
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"8
+            Artist(s): Dynamite Boy
+            Song Name: I Want It That Way
+            Preview Song: null
+            Album: Punk Goes Pop
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"9
+            Artist(s): Jess and Gabriel
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=896696e746b4495b83c3c9473a84220d
+            Album: Under the Covers, Vol. 3
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"11
+            Artist(s): Backstreet Boys
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=896696e746b4495b83c3c9473a84220d
+            Album: 90 Sweet 90s Hits!
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"10
+            Artist(s): Steel Panther
+            Song Name: I Want It That Way
+            Preview Song: null
+            Album: I Want It That Way
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"12
+            Artist(s): Glee Cast
+            Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+            Preview Song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=896696e746b4495b83c3c9473a84220d
+            Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"13
+            Artist(s): Scary Pockets,Casey Abrams
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=896696e746b4495b83c3c9473a84220d
+            Album: Nu Funk
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"14
+            Artist(s): Boyce Avenue
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=896696e746b4495b83c3c9473a84220d
+            Album: Cover Sessions, Vol. 2
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"15
+            Artist(s): Backstreet Boys
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=896696e746b4495b83c3c9473a84220d
+            Album: NKOTBSB
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"16
+            Artist(s): Manuel Costa
+            Song Name: I Want It That Way
+            Preview Song: null
+            Album: I Want It That Way
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"17
+            Artist(s): Piano Project
+            Song Name: I Want it That Way
+            Preview Song: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=896696e746b4495b83c3c9473a84220d
+            Album: Piano Covers of Hits from 1999
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"18
+            Artist(s): Scott Bradlee's Postmodern Jukebox,Shoshana Bean
+            Song Name: I Want It That Way
+            Preview Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=896696e746b4495b83c3c9473a84220d
+            Album: Selfies on Kodachrome
+            ==================================================
+            ==================================================
+SONG SEARCHED: "I Want it That Way"19
+            Artist(s): "Weird Al" Yankovic
+            Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+            Preview Song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Essential "Weird Al" Yankovic
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"0
+            Artist(s): Michael Jackson
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/12261e2c16b7eb17508fb25a411691380893151d?cid=896696e746b4495b83c3c9473a84220d
+            Album: Dangerous
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"1
+            Artist(s): Michael Jackson
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/8ceeb1c4757ef7e6bc8cb406f96a80d87796322f?cid=896696e746b4495b83c3c9473a84220d
+            Album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"2
+            Artist(s): Alana Marie
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/3cee16fe046a8d0d7e918083942db0acdb9a0c9e?cid=896696e746b4495b83c3c9473a84220d
+            Album: Michael's in Bossa
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"3
+            Artist(s): Michael Jackson
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/e38fd888eaadbd87790c68f29649129d0ff876c6?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Essential Michael Jackson
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"4
+            Artist(s): Brad Austen
+            Song Name: Heal Yourself, Heal the World Meditation
+            Preview Song: https://p.scdn.co/mp3-preview/d28047e5a04d342dcc0a72dd6bc78a4a112adecf?cid=896696e746b4495b83c3c9473a84220d
+            Album: Guided Meditations
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"6
+            Artist(s): Reflect Love Back,Josh Sturm,Lacey Sturm
+            Song Name: Love Will Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/c899c1395dc65562d1e4bb3533abd0b09382be74?cid=896696e746b4495b83c3c9473a84220d
+            Album: Soundtrack, Vol. 1
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"7
+            Artist(s): Orquesta San Antonio
+            Song Name: Heal The World (Salvar El Mundo)
+            Preview Song: https://p.scdn.co/mp3-preview/543044dee3fb4040b43492ca7d64cb9413874a6b?cid=896696e746b4495b83c3c9473a84220d
+            Album: Melodías Romanticas En Zampoña
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"5
+            Artist(s): J.Fla
+            Song Name: Heal The World
+            Preview Song: https://p.scdn.co/mp3-preview/7cbd8a2b5a553f35294d667201a142cef2a6e7b3?cid=896696e746b4495b83c3c9473a84220d
+            Album: Believer
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"8
+            Artist(s): Pat Benesta
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/f5b41762f1136ca9f8902c60ff6103b854b33ae5?cid=896696e746b4495b83c3c9473a84220d
+            Album: International Variété, Vol. 1
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"10
+            Artist(s): Baby Mozart
+            Song Name: Heal the World (And Me)
+            Preview Song: https://p.scdn.co/mp3-preview/9fd862a606acfcf382a5d80a84041bbb589bff02?cid=896696e746b4495b83c3c9473a84220d
+            Album: Songs of Healing: Stress Relief
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"11
+            Artist(s): Chillout Lounge From I’m In Records
+            Song Name: Heal the World - Instrumental
+            Preview Song: https://p.scdn.co/mp3-preview/93b83c3b0d352edbd2a06e2af6ef6aaa93295ae7?cid=896696e746b4495b83c3c9473a84220d
+            Album: Acoustic Lounge: Michael Jackson Hits in Relax Mode
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"9
+            Artist(s): Pat Benesta
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/6cd359db28dde4e7b1ad9a7f1ec214222bb37c98?cid=896696e746b4495b83c3c9473a84220d
+            Album: Hits RnB Pop, Vol. 1
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"12
+            Artist(s): Vitamin String Quartet
+            Song Name: Heal The World
+            Preview Song: https://p.scdn.co/mp3-preview/adc9bbbac1efba1a4c7c4904af8cd10a015ef1e9?cid=896696e746b4495b83c3c9473a84220d
+            Album: VSQ Performs the Hits of Michael Jackson
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"13
+            Artist(s): Maati Baani
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/7f22cc64228d7f56a65a6350c275f2ccc06d2895?cid=896696e746b4495b83c3c9473a84220d
+            Album: Heal the World
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"14
+            Artist(s): Michael Jackson,Dieter Max
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/4c4e473195017d42b26b91748178041d4f5e26db?cid=896696e746b4495b83c3c9473a84220d
+            Album: Selected Pearls
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"15
+            Artist(s): Sungha Jung
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/15162759c7f37fe041f7b110b465eb473a3e1180?cid=896696e746b4495b83c3c9473a84220d
+            Album: Sungha Jung Cover Compilation 2
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"16
+            Artist(s): Jon Batiste,Stay Human
+            Song Name: Heal the World (Live)
+            Preview Song: https://p.scdn.co/mp3-preview/5b5a619360a85cf1fef6f62985c48c0aba242ec1?cid=896696e746b4495b83c3c9473a84220d
+            Album: MY N.Y.
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"17
+            Artist(s): Omari
+            Song Name: Jehovah Guide Me
+            Preview Song: https://p.scdn.co/mp3-preview/a50a5c3c56ab9c18c623360b5caf02f32b715cae?cid=896696e746b4495b83c3c9473a84220d
+            Album: Heal Jamaica, Heal the World
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"18
+            Artist(s): Judson Mancebo
+            Song Name: Heal the world
+            Preview Song: https://p.scdn.co/mp3-preview/1e98ba9ae6578d6445fe52bad40dcc9b410587cf?cid=896696e746b4495b83c3c9473a84220d
+            Album: Babies love Michael Jackson
+            ==================================================
+            ==================================================
+SONG SEARCHED: "Heal The World"19
+            Artist(s): Søren Bødker Madsen
+            Song Name: Heal the World
+            Preview Song: https://p.scdn.co/mp3-preview/ffea231ce45830ff8cbdc2770214f9a2af42b854?cid=896696e746b4495b83c3c9473a84220d
+            Album: More Acoustic Guitar
             ==================================================
             ==================================================
