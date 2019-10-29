@@ -21,8 +21,9 @@
 
 # Instruction
 
-concert-this
-node liri.js concert-this <artist/band name>
+### concert-this
+
+#### node liri.js concert-this <artist>
 
 - This will search the Bands in Town Artist Events API for an artist and show the following information about each event in the terminal appending data to the log.txt file:
 
@@ -30,8 +31,9 @@ node liri.js concert-this <artist/band name>
   * Venue location
   * Date of the Event 
 
-spotify-this-song
-node liri.js spotify-this-song '<song name>'
+### spotify-this-song
+
+#### node liri.js spotify-this-song <song name>
 
 - This will search the Spotify API for a song and show the following information about the song in the terminal appending data also to the log.txt file:
 
@@ -40,8 +42,9 @@ node liri.js spotify-this-song '<song name>'
   * A preview link of the song from Spotify
   * The album that the song is from
 
-movie-this
-node liri.js movie-this '<movie name here>'
+### movie-this
+
+#### node liri.js movie-this <movie name>
 
 - This will search the OMDB API for a movie name and show the following information in the terminal appending data also to the log.txt file:
 
@@ -53,8 +56,10 @@ node liri.js movie-this '<movie name here>'
   * Language of the movie.
   * Plot of the movie.
   * Actors in the movie.
-do-what-it-says
-node liri.js do-what-it-says
+
+### do-what-it-says
+
+#### node liri.js do-what-it-says
 
 - LIRI will take the text inside of random.txt and then initiates a call in the CLI.
 
