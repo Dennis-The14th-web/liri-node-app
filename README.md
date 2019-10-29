@@ -17,7 +17,8 @@
 - The API keys and parameters were used to get the information displayed when user makes a request on the App.
 
 - I have visually giving an overview and more details on how the App functions. Kindly view by clicking link provided.
-       *  https://dennis-the14th-web.github.io/liri-bot-demo/
+
+    *  https://dennis-the14th-web.github.io/liri-bot-demo/
 
 # Instruction
 
