@@ -11,6 +11,7 @@ var axios = require("axios")
 
 var fs = require("fs");
 
+
 // bandsintown
 var getBand = function(artist){
     axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp").then(function(response){

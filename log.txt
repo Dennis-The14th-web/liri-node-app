@@ -451,3 +451,203 @@ SONG SEARCHED: "Heal The World"19
             Album: More Acoustic Guitar
             ==================================================
             ==================================================
+SONG SEARCHED: Beautiful0
+            Artist(s): Ed Sheeran,Khalid
+            Song Name: Beautiful People (feat. Khalid)
+            Preview Song: https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful People (feat. Khalid)
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful1
+            Artist(s): Luke Combs
+            Song Name: Beautiful Crazy
+            Preview Song: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=896696e746b4495b83c3c9473a84220d
+            Album: This One's for You Too (Deluxe Edition)
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful2
+            Artist(s): Ed Sheeran,Khalid
+            Song Name: Beautiful People (feat. Khalid)
+            Preview Song: https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=896696e746b4495b83c3c9473a84220d
+            Album: No.6 Collaborations Project
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful3
+            Artist(s): Bazzi,Camila Cabello
+            Song Name: Beautiful (feat. Camila Cabello)
+            Preview Song: https://p.scdn.co/mp3-preview/f4919d159ccc28353ec076bdf5187c19a4f73dc8?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful (feat. Camila Cabello)
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful4
+            Artist(s): Sean Kingston
+            Song Name: Beautiful Girls
+            Preview Song: https://p.scdn.co/mp3-preview/149a2a28b7acbe31096d9f3cb4618ef08926c8b2?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful Girls
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful5
+            Artist(s): Bazzi
+            Song Name: Beautiful
+            Preview Song: https://p.scdn.co/mp3-preview/03eb1f0360624d58bdb415a69ca8e1dcde32bb4a?cid=896696e746b4495b83c3c9473a84220d
+            Album: COSMIC
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful6
+            Artist(s): Alessia Cara
+            Song Name: Scars To Your Beautiful
+            Preview Song: null
+            Album: Know-It-All (Deluxe)
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful7
+            Artist(s): Jesse McCartney
+            Song Name: Beautiful Soul
+            Preview Song: null
+            Album: Beautiful Soul
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful8
+            Artist(s): Lana Del Rey
+            Song Name: Young And Beautiful
+            Preview Song: null
+            Album: Young And Beautiful
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful9
+            Artist(s): Lil Peep
+            Song Name: Life is Beautiful
+            Preview Song: https://p.scdn.co/mp3-preview/114ba8f7680c4b01ae17600ac3e4056df927c460?cid=896696e746b4495b83c3c9473a84220d
+            Album: Come Over When You're Sober, Pt. 2
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful11
+            Artist(s): Kanye West
+            Song Name: POWER
+            Preview Song: null
+            Album: My Beautiful Dark Twisted Fantasy
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful12
+            Artist(s): James Blunt
+            Song Name: You're Beautiful
+            Preview Song: https://p.scdn.co/mp3-preview/1e9fe4947493daddd30a02f8e7b920eb413ce065?cid=896696e746b4495b83c3c9473a84220d
+            Album: Back to Bedlam
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful10
+            Artist(s): G-Eazy,A$AP Rocky,Cardi B
+            Song Name: No Limit
+            Preview Song: https://p.scdn.co/mp3-preview/6dbc7ab9e6d39c167e3149f0354639af246be8e5?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Beautiful & Damned
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful13
+            Artist(s): Kelly Clarkson
+            Song Name: Broken & Beautiful (from the movie UGLYDOLLS)
+            Preview Song: https://p.scdn.co/mp3-preview/d0cd9ed365c0005fc0f5054f868ca92da4fff856?cid=896696e746b4495b83c3c9473a84220d
+            Album: Broken & Beautiful (from the movie UGLYDOLLS)
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful15
+            Artist(s): Hillsong Worship
+            Song Name: What A Beautiful Name
+            Preview Song: null
+            Album: What A Beautiful Name
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful14
+            Artist(s): G-Eazy,Halsey
+            Song Name: Him & I (with Halsey)
+            Preview Song: https://p.scdn.co/mp3-preview/ed7a2ff3c91a5a1b48a6b270debe123e076ac82d?cid=896696e746b4495b83c3c9473a84220d
+            Album: The Beautiful & Damned
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful16
+            Artist(s): Young Thug,Future
+            Song Name: Relationship (feat. Future)
+            Preview Song: https://p.scdn.co/mp3-preview/198bb5cfb2a2261bd3cc338709e9f3848f9bb001?cid=896696e746b4495b83c3c9473a84220d
+            Album: Beautiful Thugger Girls
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful18
+            Artist(s): Zedd,Jon Bellion
+            Song Name: Beautiful Now
+            Preview Song: null
+            Album: True Colors
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful17
+            Artist(s): Eminem
+            Song Name: Beautiful
+            Preview Song: null
+            Album: Relapse: Refill
+            ==================================================
+            ==================================================
+SONG SEARCHED: Beautiful19
+            Artist(s): Kanye West
+            Song Name: All Of The Lights
+            Preview Song: null
+            Album: My Beautiful Dark Twisted Fantasy
+            ==================================================
+            ==================================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
+CONCERT SEARCHED: undefined
+      ============================================       
+      Venue: STAR LOUNGE
+      Venue Location: 東京都, 日本
+      date of the Event: Saturday, November 23rd 2019, 12:30:00 am
+      ============================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
+CONCERT SEARCHED: undefined
+      ============================================       
+      Venue: STAR LOUNGE
+      Venue Location: 東京都, 日本
+      date of the Event: Saturday, November 23rd 2019, 12:30:00 am
+      ============================================
+CONCERT SEARCHED: undefined
+      ============================================       
+      Venue: STAR LOUNGE
+      Venue Location: 東京都, 日本
+      date of the Event: Saturday, November 23rd 2019, 12:30:00 am
+      ============================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
+CONCERT SEARCHED: john
+      ============================================       
+      Venue: Colours Hoxton
+      Venue Location: London, United Kingdom
+      date of the Event: Wednesday, November 13th 2019, 8:00:00 pm
+      ============================================
